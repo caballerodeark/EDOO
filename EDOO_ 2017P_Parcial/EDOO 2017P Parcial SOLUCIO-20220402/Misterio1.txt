@@ -1,0 +1,9 @@
+
+Entradas/Salidas:
+  "a b c a b c a b c" -> "a b c"
+  "el gato i el raton" -> "el gato i raton"
+  "just do it do it do it do it" -> "just do it"
+
+El programa muestra la secuencia de palabras quitando las repeticiones.
+Es decir, no muestra las palabras que ya han aparecido antes en la secuencia.
+  
